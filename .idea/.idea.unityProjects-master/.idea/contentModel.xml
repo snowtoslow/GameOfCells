@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\OSA\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\OSA\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_unityProjects-master.-1019798957.00" t="ExcludeRecursive" />
+    <e p="D:\University\Litovcenco\Vova_Lab_2\unityProjects-master" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Five Seamless Tileable Ground Textures" t="Include">
+          <e p="read me.txt" t="Include" />
+        </e>
+        <e p="Script" t="Include">
+          <e p="Enviroments.cs" t="Include" />
+          <e p="GridCell.cs" t="Include" />
+          <e p="Instatiator.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+        </e>
+      </e>
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+      <e p="unityProjects-master.sln" t="IncludeFlat" />
+    </e>
+  </component>
+</project>
